@@ -4,18 +4,17 @@
   "description": "test api with cypress",
   "main": "index.js",
   "scripts": {
-    "api_test": "npx cypress run"
+    "test": "npx cypress run"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Olaprog/cypress-api-test.git"
+    "url": "git+https://github.com/anixumoh/Cypress_API_Test"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Olaprog/cypress-api-test/issues"
+    "url": "https://github.com/anixumoh/Cypress_API_Test"
   },
-  "homepage": "https://github.com/Olaprog/cypress-api-test#readme",
   "devDependencies": {
     "cypress": "^10.1.0"
   }
